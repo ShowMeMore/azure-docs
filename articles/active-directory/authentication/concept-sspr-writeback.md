@@ -51,6 +51,7 @@ To use password writeback, you must have one of the following licenses assigned 
 * Azure AD Premium P2
 * Enterprise Mobility + Security E3 or A3
 * Enterprise Mobility + Security E5 or A5
+* Microsoft Intune for Education
 * Microsoft 365 E3 or A3
 * Microsoft 365 E5 or A5
 * Microsoft 365 F1
